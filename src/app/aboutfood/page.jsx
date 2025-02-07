@@ -97,7 +97,7 @@ function AboutfoodPage() {
                         ))}
                     </div>
 
-                    {/* แผนที่ */}
+                    {/* แผนที่นะ */}
                     <div style={{ marginTop: '20px' }}>
                         <iframe 
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3111.0809851607!2d99.92940488009347!3d19.035379199219932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30d8330f050e8c2b%3A0xaf2863e5025ed99f!2zT2theSBTaGFidSDguKrguLLguILguLIg4LihLuC4nuC4sOC5gOC4ouC4sg!5e0!3m2!1sth!2sth!4v1738905402768!5m2!1sth!2sth"
@@ -143,7 +143,7 @@ function AboutfoodPage() {
                     style={{
                         backgroundColor: '#f5f5f5',
                         width: '400px',
-                        height: '500px', // ขยายให้พอดีกับช่องที่เพิ่ม
+                        height: '500px', // ขยายให้ช่องที่เพิ่ม
                         padding: '15px',
                         borderRadius: '10px',
                         border: '2px solid #ddd',
